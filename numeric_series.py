@@ -126,7 +126,7 @@ if __name__ == "__main__":
 
     name1 = "Quiz Scores Module 1"
     units1 = "pts"
-    data1 = [9,9,10, 9, 7, 10]
+    data1 = [9, 9, 10, 9, 7, 10]
 
     object1 = NumericSeries(name1, units1, data1)
 
@@ -135,7 +135,7 @@ if __name__ == "__main__":
 
     name2 = "Quiz Scores Module 2"
     units2 = "pts"
-    data2 = [8, 10, 8, 10, 8, 10,10, 10]
+    data2 = [8, 10, 8, 10, 8, 10, 10, 10]
 
     object2 = NumericSeries(name2, units2, data2)
     

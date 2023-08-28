@@ -45,7 +45,55 @@ logger, logname = setup_logger(__file__)
 # TODO: Add functions to get the unit tests to pass 
 # TODO: Log each time the function is called (along with its arguments)
 # TODO: Log the result of each function just before you return the result
+def sum_two(first, second):
+    """Return sum of two arguments"""
 
+    logger.info(f"Calculating sum of {first} and {second}.")
+
+    total = first + second
+
+    logger.info(f"The sum of your arguments({first}, {second}) is {total}.")
+    return total
+
+
+def sum_rectangle_list(list):
+    """Return sum of list of four numbers"""
+
+    logger.info(f"Calculating the sum of the numbers {list}.")
+
+    total = 0
+    for n in list:
+        total += n
+    
+    logger.info(f"The sum of the values {list} is {total}.")
+    return total
+
+def sum_any_using_args(*args):
+    """Return sum of list of arguments"""
+
+    logger.info(f"Calculating sum of list of arguments {args}.")
+
+    #Initialize total to zero
+    total = 0
+
+    #Iterate through list of arguments
+    for n in args:
+        #add numbers in list of arguments
+        total += n
+    
+    #Output and Return
+    logger.info(f"The total sum of the list of arguments {args} is {total}.")
+    return total
+
+def sum_any_with_keyword_arguments_kwargs(a, b, c):
+    '''Return sum of list of KEYWORD arguments'''
+
+    logger.info(f"Calculating sum of list of keyword arguments {a}, {b}, {c}.")
+
+    total = a + b + c
+    
+    logger.info(f"The sum of {a}, {b}, and {c} is {total}.")
+    return total
 
 
 
@@ -61,7 +109,12 @@ def transform_using_keyword_args_with_default_values(input="bearcat", reverse=Fa
     s = f"CALLING transform_using_keyword_args_with_default_values(input={input}, reverse={reverse})"
     logger.info(s)
 
-    result = input
+    #Obtain first 3 letters of input
+    result = input[0:3:1]
+
+    #Check if reversed
+    if reverse:
+        result = result[::-1]
 
     logger.info(f"RETURNING {result}")
     return result

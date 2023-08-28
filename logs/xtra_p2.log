@@ -1,0 +1,34 @@
+2023-08-28 11:55:26,872.xtra_p2.INFO ==================================================
+2023-08-28 11:55:26,873.xtra_p2.INFO Today is 2023-08-28 at 11:55 AM
+2023-08-28 11:55:26,891.xtra_p2.INFO Running on: nt Windows 10
+2023-08-28 11:55:26,892.xtra_p2.INFO Python version:  3.11.4
+2023-08-28 11:55:26,892.xtra_p2.INFO Python path: C:\Users\healt\AppData\Local\Programs\Python\Python311
+2023-08-28 11:55:26,892.xtra_p2.INFO Working dir: C:\Users\healt\Documents\DataAnalyticsFundamentals\datafun-02-functions
+2023-08-28 11:55:26,893.xtra_p2.INFO ==================================================
+2023-08-28 11:55:26,893.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-08-28 11:55:26,893.xtra_p2.INFO RETURNING bea
+2023-08-28 11:55:26,893.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-08-28 11:55:26,893.xtra_p2.INFO RETURNING aeb
+2023-08-28 11:55:26,893.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-08-28 11:55:26,894.xtra_p2.INFO RETURNING leh
+2023-08-28 11:55:26,894.xtra_p2.INFO ===========================================================
+2023-08-28 11:55:26,894.xtra_p2.INFO Running doctest.testmod() function to unit test our code
+2023-08-28 11:55:26,894.xtra_p2.INFO ===========================================================
+2023-08-28 11:55:26,896.xtra_p2.INFO Calculating sum of 1 and 2.
+2023-08-28 11:55:26,896.xtra_p2.INFO The sum of your arguments(1, 2) is 3.
+2023-08-28 11:55:26,896.xtra_p2.INFO Calculating sum of hello and  world.
+2023-08-28 11:55:26,897.xtra_p2.INFO The sum of your arguments(hello,  world) is hello world.
+2023-08-28 11:55:26,897.xtra_p2.INFO Calculating the sum of the numbers [1, 1, 3, 3].
+2023-08-28 11:55:26,897.xtra_p2.INFO The sum of the values [1, 1, 3, 3] is 8.
+2023-08-28 11:55:26,897.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-08-28 11:55:26,897.xtra_p2.INFO RETURNING bea
+2023-08-28 11:55:26,898.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-08-28 11:55:26,898.xtra_p2.INFO RETURNING aeb
+2023-08-28 11:55:26,898.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-08-28 11:55:26,898.xtra_p2.INFO RETURNING leh
+2023-08-28 11:55:26,899.xtra_p2.INFO Calculating sum of list of arguments (1, 1, 1, 2).
+2023-08-28 11:55:26,899.xtra_p2.INFO The total sum of the list of arguments (1, 1, 1, 2) is 5.
+2023-08-28 11:55:26,899.xtra_p2.INFO Calculating sum of list of keyword arguments 1, 2, 3.
+2023-08-28 11:55:26,899.xtra_p2.INFO The sum of 1, 2, and 3 is 6.
+2023-08-28 11:55:26,902.xtra_p2.INFO All tests passed!
+2023-08-28 11:55:26,902.xtra_p2.INFO Script complete. More info in the log file.
