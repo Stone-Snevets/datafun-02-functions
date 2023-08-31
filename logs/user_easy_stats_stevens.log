@@ -1,0 +1,37 @@
+2023-08-31 11:27:25,792.user_easy_stats_stevens.INFO ==================================================
+2023-08-31 11:27:25,793.user_easy_stats_stevens.INFO Today is 2023-08-31 at 11:27 AM
+2023-08-31 11:27:25,813.user_easy_stats_stevens.INFO Running on: nt Windows 10
+2023-08-31 11:27:25,813.user_easy_stats_stevens.INFO Python version:  3.11.4
+2023-08-31 11:27:25,814.user_easy_stats_stevens.INFO Python path: C:\Users\healt\AppData\Local\Programs\Python\Python311
+2023-08-31 11:27:25,814.user_easy_stats_stevens.INFO Working dir: C:\Users\healt\Documents\DataAnalyticsFundamentals\datafun-02-functions
+2023-08-31 11:27:25,814.user_easy_stats_stevens.INFO ==================================================
+2023-08-31 11:27:25,821.user_easy_stats_stevens.INFO ===== Statistics for number of unnecessary features in an electric car =====
+2023-08-31 11:27:25,823.user_easy_stats_stevens.INFO mean    =   6.50 features
+2023-08-31 11:27:25,823.user_easy_stats_stevens.INFO median  =   6.50 features
+2023-08-31 11:27:25,824.user_easy_stats_stevens.INFO mode    =   8.00 features
+2023-08-31 11:27:25,824.user_easy_stats_stevens.INFO var     =   6.00 features
+2023-08-31 11:27:25,824.user_easy_stats_stevens.INFO stdev   =   2.45 features
+2023-08-31 11:27:25,824.user_easy_stats_stevens.INFO lowest  =   3.00 features
+2023-08-31 11:27:25,824.user_easy_stats_stevens.INFO highest =   10.00 features
+2023-08-31 11:27:25,825.user_easy_stats_stevens.INFO range   =   7.00 features
+2023-08-31 11:27:25,825.user_easy_stats_stevens.INFO 
+2023-08-31 11:27:25,825.user_easy_stats_stevens.INFO ===== Statistics for miles an electric car can travel in a full charge =====
+2023-08-31 11:27:25,825.user_easy_stats_stevens.INFO mean    =   260.75 miles per full charge
+2023-08-31 11:27:25,825.user_easy_stats_stevens.INFO median  =   274.50 miles per full charge
+2023-08-31 11:27:25,825.user_easy_stats_stevens.INFO mode    =   182.00 miles per full charge
+2023-08-31 11:27:25,826.user_easy_stats_stevens.INFO var     =   10142.79 miles per full charge
+2023-08-31 11:27:25,826.user_easy_stats_stevens.INFO stdev   =   100.71 miles per full charge
+2023-08-31 11:27:25,826.user_easy_stats_stevens.INFO lowest  =   129.00 miles per full charge
+2023-08-31 11:27:25,826.user_easy_stats_stevens.INFO highest =   372.00 miles per full charge
+2023-08-31 11:27:25,826.user_easy_stats_stevens.INFO range   =   243.00 miles per full charge
+2023-08-31 11:27:25,826.user_easy_stats_stevens.INFO 
+2023-08-31 11:27:25,827.user_easy_stats_stevens.INFO Here's some bivariant data (2 variables, together):
+2023-08-31 11:27:25,827.user_easy_stats_stevens.INFO x:[8, 5, 3, 6, 7, 4, 9, 10]
+2023-08-31 11:27:25,827.user_easy_stats_stevens.INFO y:[182, 345, 372, 288, 261, 371, 138, 129]
+2023-08-31 11:27:25,827.user_easy_stats_stevens.INFO Calculate the slope and intercept of a best fit straight line:
+2023-08-31 11:27:25,827.user_easy_stats_stevens.INFO    slope = -40.26
+2023-08-31 11:27:25,827.user_easy_stats_stevens.INFO    intercept = 522.45
+2023-08-31 11:27:25,828.user_easy_stats_stevens.INFO Let's use our best fit line to PREDICT a future value.
+2023-08-31 11:27:25,828.user_easy_stats_stevens.INFO    At future x = 11 features,
+2023-08-31 11:27:25,828.user_easy_stats_stevens.INFO    we predict the value of y will be 80 miles per full charge.
+2023-08-31 11:27:25,828.user_easy_stats_stevens.INFO How'd we do? Does this make sense given the data?

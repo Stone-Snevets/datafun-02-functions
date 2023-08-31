@@ -1,0 +1,37 @@
+2023-08-31 13:05:03,619.user_numeric_class_stevens.INFO ==================================================
+2023-08-31 13:05:03,620.user_numeric_class_stevens.INFO Today is 2023-08-31 at 01:05 PM
+2023-08-31 13:05:03,620.user_numeric_class_stevens.INFO Running on: nt Windows 10
+2023-08-31 13:05:03,621.user_numeric_class_stevens.INFO Python version:  3.11.4
+2023-08-31 13:05:03,621.user_numeric_class_stevens.INFO Python path: C:\Users\healt\AppData\Local\Programs\Python\Python311
+2023-08-31 13:05:03,621.user_numeric_class_stevens.INFO Working dir: C:\Users\healt\Documents\DataAnalyticsFundamentals\datafun-02-functions
+2023-08-31 13:05:03,621.user_numeric_class_stevens.INFO ==================================================
+2023-08-31 13:05:03,622.user_numeric_class_stevens.INFO Created: NumericMilageSeries with name= Electric SUV, units= Miles / Charge, location= City Trafic, and 8 data points: [132, 295, 322, 238, 211, 321, 88, 79]
+2023-08-31 13:05:03,622.user_numeric_class_stevens.INFO Created: NumericMilageSeries with name= Electric Car, units= Miles / Charge, location= Suburban Trafic, and 8 data points: [182, 345, 372, 288, 261, 371, 138, 129]
+2023-08-31 13:05:03,622.user_numeric_class_stevens.INFO Created: NumericMilageSeries with name= Gasoline Truck, units= Miles / Gallon, location= Highway Trafic, and 8 data points: [24, 33, 25, 32, 29, 30, 21, 22]
+2023-08-31 13:05:03,623.user_numeric_class_stevens.INFO ------------------
+2023-08-31 13:05:03,623.user_numeric_class_stevens.INFO NumericMilageSeries with name= Electric SUV, units= Miles / Charge, location= City Trafic, and 8 data points: [132, 295, 322, 238, 211, 321, 88, 79]
+2023-08-31 13:05:03,624.user_numeric_class_stevens.INFO Count: 8
+2023-08-31 13:05:03,624.user_numeric_class_stevens.INFO Sum: 1686
+2023-08-31 13:05:03,624.user_numeric_class_stevens.INFO Mean: 210.75
+2023-08-31 13:05:03,624.user_numeric_class_stevens.INFO Median: 224.5
+2023-08-31 13:05:03,625.user_numeric_class_stevens.INFO Variance: 10142.79
+2023-08-31 13:05:03,625.user_numeric_class_stevens.INFO Standard Deviation: 100.71
+2023-08-31 13:05:03,625.user_numeric_class_stevens.INFO Coefficient of Variance: 0.48
+2023-08-31 13:05:03,625.user_numeric_class_stevens.INFO ------------------
+2023-08-31 13:05:03,626.user_numeric_class_stevens.INFO NumericMilageSeries with name= Electric Car, units= Miles / Charge, location= Suburban Trafic, and 8 data points: [182, 345, 372, 288, 261, 371, 138, 129]
+2023-08-31 13:05:03,626.user_numeric_class_stevens.INFO Count: 8
+2023-08-31 13:05:03,626.user_numeric_class_stevens.INFO Sum: 2086
+2023-08-31 13:05:03,627.user_numeric_class_stevens.INFO Mean: 260.75
+2023-08-31 13:05:03,627.user_numeric_class_stevens.INFO Median: 274.5
+2023-08-31 13:05:03,627.user_numeric_class_stevens.INFO Variance: 10142.79
+2023-08-31 13:05:03,627.user_numeric_class_stevens.INFO Standard Deviation: 100.71
+2023-08-31 13:05:03,628.user_numeric_class_stevens.INFO Coefficient of Variance: 0.39
+2023-08-31 13:05:03,628.user_numeric_class_stevens.INFO ------------------
+2023-08-31 13:05:03,628.user_numeric_class_stevens.INFO NumericMilageSeries with name= Gasoline Truck, units= Miles / Gallon, location= Highway Trafic, and 8 data points: [24, 33, 25, 32, 29, 30, 21, 22]
+2023-08-31 13:05:03,629.user_numeric_class_stevens.INFO Count: 8
+2023-08-31 13:05:03,629.user_numeric_class_stevens.INFO Sum: 216
+2023-08-31 13:05:03,629.user_numeric_class_stevens.INFO Mean: 27.0
+2023-08-31 13:05:03,629.user_numeric_class_stevens.INFO Median: 27.0
+2023-08-31 13:05:03,630.user_numeric_class_stevens.INFO Variance: 21.14
+2023-08-31 13:05:03,630.user_numeric_class_stevens.INFO Standard Deviation: 4.60
+2023-08-31 13:05:03,630.user_numeric_class_stevens.INFO Coefficient of Variance: 0.17

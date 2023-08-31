@@ -1,0 +1,26 @@
+2023-08-30 12:04:53,981.user_math_stevens.INFO ==================================================
+2023-08-30 12:04:53,981.user_math_stevens.INFO Today is 2023-08-30 at 12:04 PM
+2023-08-30 12:04:54,001.user_math_stevens.INFO Running on: nt Windows 10
+2023-08-30 12:04:54,002.user_math_stevens.INFO Python version:  3.11.4
+2023-08-30 12:04:54,002.user_math_stevens.INFO Python path: C:\Users\healt\AppData\Local\Programs\Python\Python311
+2023-08-30 12:04:54,002.user_math_stevens.INFO Working dir: C:\Users\healt\Documents\DataAnalyticsFundamentals\datafun-02-functions
+2023-08-30 12:04:54,002.user_math_stevens.INFO ==================================================
+2023-08-30 12:04:54,003.user_math_stevens.INFO Explore some functions in the math module
+2023-08-30 12:04:54,003.user_math_stevens.INFO math.comb(5,1) = 5
+2023-08-30 12:04:54,003.user_math_stevens.INFO math.perm(5,1) = 5
+2023-08-30 12:04:54,003.user_math_stevens.INFO math.comb(5,3) = 10
+2023-08-30 12:04:54,003.user_math_stevens.INFO math.perm(5,3) = 60
+2023-08-30 12:04:54,003.user_math_stevens.INFO math.pi = 3.141592653589793
+2023-08-30 12:04:54,004.user_math_stevens.INFO math.degrees(2 * math.pi) = 360.0
+2023-08-30 12:04:54,004.user_math_stevens.INFO math.radians(180)         = 3.141592653589793
+2023-08-30 12:04:54,004.user_math_stevens.INFO 
+2023-08-30 12:04:54,004.user_math_stevens.INFO ===== Calculating Area of Car Wheel =====
+2023-08-30 12:04:54,004.user_math_stevens.INFO Area for wheel with radius of 30 inches = 2827.4333882308138 square inches.
+2023-08-30 12:04:54,005.user_math_stevens.INFO Area for wheel with radius of 32 inches = 3216.990877275948 square inches.
+2023-08-30 12:04:54,005.user_math_stevens.INFO Area for wheel with radius of 24 inches = 1809.5573684677208 square inches.
+2023-08-30 12:04:54,005.user_math_stevens.INFO Area for wheel with radius of 38 inches = 4536.459791783661 square inches.
+2023-08-30 12:04:54,005.user_math_stevens.INFO ===== Other Simple Functions =====
+2023-08-30 12:04:54,005.user_math_stevens.INFO math.fabs(-23) = 23.0.
+2023-08-30 12:04:54,006.user_math_stevens.INFO The kilowatt efficiency of a car that can hold 60 kilowatt hours and can run 257 miles on a full charge is 0.23346303501945526 miles per kilowatt hour.
+2023-08-30 12:04:54,006.user_math_stevens.INFO If a person were to travel 15,000 miles in a year in a car that can go 300 miles in a full charge,
+2023-08-30 12:04:54,006.user_math_stevens.INFO ...they would need to charge their car approximately 50.0 times.  At $11 per full charge, they would pay $550.0 per year.
